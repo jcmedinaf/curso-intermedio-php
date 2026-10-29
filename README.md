@@ -15,7 +15,7 @@ Repositorio oficial para el desarrollo del **Curso de PHP Intermedio**, diseñad
 
 ## 📂 Estructura del Repositorio
 Los archivos están numerados secuencialmente para guiar el orden lógico de estudio:
-````
+
 | Orden | Archivo | Descripción Principal |
 | :---: | :--- | :--- |
 | 01 | `01_seguridad_passwords.php` | Hashing seguro y verificación con `password_hash()` y `password_verify()`. |
@@ -24,6 +24,6 @@ Los archivos están numerados secuencialmente para guiar el orden lógico de est
 | 04 | `04_transacciones.php` | Control de transacciones con `commit` y `rollback` para inventarios y ventas. |
 | - | `README.md` | Documentación general e instrucciones del curso. |
 | - | `ESQUEMA.md` | Contenido programático desglosado por módulos y objetivos. |
-````
+
 ---
 *Autor: Juan Carlos Medina*
